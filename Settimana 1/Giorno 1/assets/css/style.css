@@ -285,3 +285,30 @@ footer a {
         padding: 10px;
     }
 }
+
+@media print{
+    *{
+        font-size: 23px;
+    }
+    header{
+        display: none;
+    }
+    iframe{
+        display: none;
+    }
+    article section{
+        display: none;
+    }
+    aside {
+        display: none;
+    }
+    footer{
+        display: none;
+    }
+    #htmlLogo{
+        float: left;
+        margin-right: 10px;
+        width:3em;
+        padding: 2px;
+    }
+}
