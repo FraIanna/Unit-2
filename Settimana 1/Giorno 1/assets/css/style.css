@@ -235,7 +235,7 @@ footer a {
         font-size: 75%;
     }
     body{
-        padding: 1em 5em;
+        padding: 1em 30%;
     }
     header {
         padding: 1em;
@@ -261,7 +261,7 @@ footer a {
         width: 70%
     }
     iframe{
-        width: 25em;
+        width: 29em;
         margin-right: 0;
         height: 12em;
     }
